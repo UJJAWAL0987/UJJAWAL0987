@@ -6,7 +6,7 @@ I am a passionate Full Stack Developer and a B.Tech Computer Science Engineering
 
 ## 🚀 About Me
 
-- 🎓 **.Tech CSE Student** at Invertis University
+- 🎓 **B.Tech CSE Student** at Invertis University
 - 💻 **Full Stack Developer** with expertise in MERN Stack (MongoDB, Express, React, Node.js)
 - 🌐 **Web Enthusiast**: Passionate about building responsive, dynamic, and scalable web applications
 - 📚 Constantly learning and experimenting with new technologies
